@@ -9,6 +9,8 @@ This public repository contains only a basic formalization outline.
 The full research code, dynamic resonance modules, and server orchestration structures are NOT publicly released.
 
 ---
+[Zenodo Record (v1)](https://doi.org/10.5281/zenodo.15305111)
+---
 
 ## Requesting Full Access
 If you are a researcher interested in exploring the full Christ-centered AI resonance system,  
